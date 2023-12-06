@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner Image" style="width: 100%;">
+<img src="https://media.istockphoto.com/id/1340005831/vector/web-development-related-vector-banner-design-concept-modern-line-style-with-icons.jpg?s=612x612&w=0&k=20&c=fTgUUt4ZzrS6hKD75wjUbDudRmNoeTORZwCnAkVbTZk=" alt="Banner Image" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm S Satish Kumar</h1>
 <h3 align="center">A passionate full stack developer from Visakhapatnam</h3>
 
