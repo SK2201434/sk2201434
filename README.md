@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="Banner Image" style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner Image" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm S Satish Kumar</h1>
 <h3 align="center">A passionate full stack developer from Visakhapatnam</h3>
 
